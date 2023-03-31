@@ -8,9 +8,9 @@ I'm an software developer who's looking to find new opportunities in frontend an
 
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning Python.
-- 😊 i'm a self taught frontend developer learning backend development with altschool
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or backend Engineer (Intern or Junior level).
+- 😊 i'm a self taught frontend developer with a little backend skill
+- 😊 I’m looking for software development opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, technical support
 - 📫 You can contact me by emailing rashidofori11@gmail.com.
 
 ---
