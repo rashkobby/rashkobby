@@ -7,9 +7,9 @@ I'm a software developer who's looking to find new opportunities in frontend and
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 😊 i'm a self taught frontend developer with a little backend skill
+- 😊 i'm a self taught fullstack developer.
 - 😊 I’m looking for software development opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, technical support
+- 💼 Job interests: Software Engineer, Frontend Engineer, Backend Developer, technical support
 - 📫 You can contact me by emailing rashidofori11@gmail.com.
 
 ---
